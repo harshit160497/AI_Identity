@@ -2,7 +2,7 @@
 
 > **Purpose**: Design-ready notes + deep understanding of modern agent-to-agent security using **SPIFFE/SPIRE**, **OAuth (Identity Provider (IdP))**, **OPA**, and **Service Mesh**.
 > 
-> Targeted for **Senior / Staff / Principal / Security Engineering** interviews.
+> Targeted for **Senior / Staff / Principal / Security Engineering**
 
 ---
 
